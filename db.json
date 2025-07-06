@@ -1,6 +1,28 @@
 {
   "users": [
-    { "id": "fduan", "name": "Felipe" },
-    { "id": "luis", "name": "Luis Eduardo" }
+    {
+      "id": "fduan",
+      "name": "Felipe"
+    },
+    {
+      "id": "luis",
+      "name": "Luis Eduardo"
+    },
+    {
+      "id": "duany",
+      "name": "Duany"
+    },
+    {
+      "id": "foo",
+      "name": "Foo Bar"
+    },
+    {
+      "id": "ff",
+      "name": "ffff"
+    },
+    {
+      "id": "foo",
+      "name": "Foo Bar"
+    }
   ]
 }
